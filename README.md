@@ -1,7 +1,9 @@
 ### Hi there 👋
 <br>
 <p>
-🌱 I’m currently learning Python \n
+🌱 I’m currently learning Python
+</p>
+<p>
 📫 How to reach me: priyanshumallick2004@gmail.com
 </p>
 <!--
