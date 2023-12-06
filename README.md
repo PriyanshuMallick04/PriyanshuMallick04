@@ -1,8 +1,9 @@
 ### Hi there 👋
-
-🌱 I’m currently learning Python
+<br>
+<p>
+🌱 I’m currently learning Python \n
 📫 How to reach me: priyanshumallick2004@gmail.com
-
+</p>
 <!--
 **PriyanshuMallick04/PriyanshuMallick04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
